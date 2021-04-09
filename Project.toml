@@ -1,0 +1,13 @@
+name = "MorseAPI"
+uuid = "149cc56b-de48-4394-8bf6-d6ac572c398a"
+authors = ["alisafaya <alisafaya@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Knet = "1902f260-5fb4-5aff-8c31-6271790ab950"
+KnetLayers = "e09e3f5a-3c2e-516c-a806-60ae64389a85"
+Morse = "1ee78b96-f10b-11e8-2f7c-e192173d3e61"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
