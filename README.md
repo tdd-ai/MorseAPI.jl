@@ -2,8 +2,6 @@
 
 This repo provides an API of [Morse.jl](https://github.com/ai-ku/Morse.jl#39f992e09b8a1ba1ebb030d90e62a13d8a2e3ec0) package.
 
-The following project structure is recommended :
-
 ### Environment file [.env](.env)
 
 This file will contain the path to packages file and other environment variables to be used in both the API package and Dockerfile.
